@@ -6,5 +6,5 @@ Code and files required for the simulations
  then run the line that initialize the "namesReals" variable in the selected case you intend to check. After that
  initialize the other variables ("reals", "centreal", "pobreal", "listparam", "tasareal", "listsigma").
  
- In order to plot the figures, first you have to run the line "AppendTo[$Path, "<workingDirectory>"];" where <workingDirectory> is the path
+ In order to plot the figures, first you have to run the line "AppendTo[$Path, "_workingDirectory_"];" where _workingDirectory_ is the path
  of the working directory. After that you need to call the previous installed "SciDraw" plotting assistant with the command "Get["SciDraw`"];"
