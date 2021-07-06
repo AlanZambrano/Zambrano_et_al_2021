@@ -8,3 +8,5 @@ Code and files required for the simulations
  
  In order to plot the figures, first you have to run the line "AppendTo[$Path, "_workingDirectory_"];" where _workingDirectory_ is the path
  of the working directory. After that you need to call the previous installed "SciDraw" plotting assistant with the command "Get["SciDraw`"];"
+ 
+ Run the block that reads and plot the desired figure you intend to check.
